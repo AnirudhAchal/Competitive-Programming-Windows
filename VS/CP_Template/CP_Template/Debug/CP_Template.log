@@ -1,2 +1,4 @@
 ﻿  CP_Template.cpp
-  CP_Template.vcxproj -> C:\Users\Anirudh Achal\Desktop\Anirudh\Coding\C++\CP\VS\CP_Template\Debug\CP_Template.exe
+C:\Users\Anirudh Achal\Desktop\Anirudh\Coding\C++\CP\VS\CP_Template\CP_Template\CP_Template.cpp(28,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anirudh Achal\Desktop\Anirudh\Coding\C++\CP\VS\CP_Template\CP_Template\CP_Template.cpp(36): error C4700: uninitialized local variable 'm' used
+C:\Users\Anirudh Achal\Desktop\Anirudh\Coding\C++\CP\VS\CP_Template\CP_Template\CP_Template.cpp(45): error C4700: uninitialized local variable 'n' used
