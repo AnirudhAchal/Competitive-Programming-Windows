@@ -22,7 +22,7 @@ const long double PI = 3.141592653589793236L;
 
 typedef long long int ll;
 typedef long double ld;
- 
+
 using namespace std;
 
 void solve()
@@ -45,5 +45,6 @@ int main()
     
     return 0;
 }
+
 
 
