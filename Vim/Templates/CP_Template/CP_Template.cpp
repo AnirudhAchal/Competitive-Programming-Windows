@@ -13,6 +13,7 @@
 #include <queue>
 #include <climits>
 #include <iomanip>
+#include<cstring>
 
 #define all(x) x.begin(), x.end()
 #define debug(x) cout << #x << " = " << x << "\n"
@@ -45,4 +46,5 @@ int main()
 
     return 0;
 }
+
 
